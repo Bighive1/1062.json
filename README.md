@@ -27,12 +27,8 @@ Este repositorio contiene la información necesaria para solicitar la integraci�
 
 ## Contacto
 
-- Email/Soporte: [Tu email o canal de soporte aquí]
+- Email/Soporte: [@nico_bighive]
 
 ---
 
-## Ejemplo de solicitud
 
-Puede usar la información de este repositorio para abrir un issue o pull request en Chainlink, siguiendo sus políticas de contribución.
-
----
