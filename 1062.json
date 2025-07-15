@@ -1,0 +1,22 @@
+{
+    "name": "Bighive",
+    "chain": "OSC",
+    "rpc": [
+        "https://bighive-beets.io",
+        "https://rpc.bighive-beets.io"
+    ],
+    "faucets": [],
+    "nativeCurrency": {
+        "name": "Beets",
+        "symbol": "BT$",
+        "decimals": 18,
+        "icon": "https://bafybeieufyaabon5kjiih2jhmfyb7jg5qqxtw5idtsdgd2dzfujesjlpxe.ipfs.dweb.link?filename=logo%20oficial%20Beets.jpg"
+    },
+    "infoURL": "https://bighive-beets.io",
+    "shortName": "bt$",
+    "chainId": 1062,
+    "networkId": 1062,
+    "slip44": 1062,
+    "icon": "https://bafybeigj4xkjzf3472c2brp72u5jbagzmrxgnfgilw7ilv7elmhop4liti.ipfs.dweb.link?filename=logo%20oficial%20Bighive.jpg",
+    "explorers": []
+}
