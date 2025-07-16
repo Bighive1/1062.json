@@ -1,6 +1,6 @@
 {
     "name": "Bighive",
-    "chain": "OSC",
+    "chain": "Bighive",
     "rpc": [
         "https://bighive-beets.io",
         "https://rpc.bighive-beets.io"
