@@ -5,7 +5,7 @@ Este repositorio contiene la información necesaria para solicitar la integraci�
 ## Información técnica
 
 - **Nombre:** Bighive
-- **Chain:** OSC
+- **Chain:** Bighive 
 - **Sitio web:** [https://bighive-beets.io](https://bighive-beets.io)
 - **Chain ID:** 1062
 - **Network ID:** 1062
