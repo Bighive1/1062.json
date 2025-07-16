@@ -6,7 +6,7 @@ Este repositorio contiene la informaci√≥n necesaria para solicitar la integraci√
 
 - **Nombre:** Bighive
 - **Chain:** Bighive 
-- **Sitio web:** [https://bighive-beets.io](https://bighive-beets.io)
+- **Sitio web:** [https://bighive-beets.io](https://rpc.bighive-beets.io)
 - **Chain ID:** 1062
 - **Network ID:** 1062
 - **RPC:**  
@@ -17,7 +17,7 @@ Este repositorio contiene la informaci√≥n necesaria para solicitar la integraci√
 - **Icono:**  
   - [Logo Beets](https://bafybeieufyaabon5kjiih2jhmfyb7jg5qqxtw5idtsdgd2dzfujesjlpxe.ipfs.dweb.link?filename=logo%20oficial%20Beets.jpg)
   - [Logo Bighive](https://bafybeigj4xkjzf3472c2brp72u5jbagzmrxgnfgilw7ilv7elmhop4liti.ipfs.dweb.link?filename=logo%20oficial%20Bighive.jpg)
-- **Archivo genesis:** [genesis2.json](./genesis2.json)
+- **Archivo genesis:** [genesis2.json](./1062.json)
 
 ## ¬øPor qu√© integrar Bighive en Chainlink?
 
@@ -27,7 +27,7 @@ Este repositorio contiene la informaci√≥n necesaria para solicitar la integraci√
 
 ## Contacto
 
-- Email/Soporte: [@nico_bighive]
+- Email/Soporte: [@Nico_bighive]
 
 ---
 
