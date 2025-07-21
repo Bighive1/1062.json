@@ -12,7 +12,7 @@ Este repositorio contiene la información necesaria para solicitar la integraci�
 - **RPC:**  
   - https://bighive-beets.io  
   - https://rpc.bighive-beets.io
-- **Símbolo:** BT$
+- **Símbolo:** Beets 
 - **Moneda Nativa:** Beets
 - **Icono:**  
   - [Logo Beets](https://bafybeieufyaabon5kjiih2jhmfyb7jg5qqxtw5idtsdgd2dzfujesjlpxe.ipfs.dweb.link?filename=logo%20oficial%20Beets.jpg)
